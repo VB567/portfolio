@@ -57,7 +57,6 @@ url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGLLixtaMSBKchUEl2NEO
 img{
   border-radius:30%;
   border:solid 5px #9370DB;
-  transform: rotate(90deg)
 }
 
 .my-description{
